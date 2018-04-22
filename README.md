@@ -3,13 +3,13 @@ GameMaker Language 的功能可用性数据。
 
 这个数据将用于 GML Support 插件。
 
-本仓库同样支持贡献数据。
+这里的数据可能不准确，所以本仓库同样支持贡献数据。
 
 Available data for GameMaker Languages.
 
 This data will be used for the GML Support extension.
 
-This repository also supports contribution data.
+The data here may not be accurate, so this repository also supports contribution data.
 
 | 标识 (Identification) |                     含义 (Meaning)                     |
 | :-------------------: | :----------------------------------------------------: |
