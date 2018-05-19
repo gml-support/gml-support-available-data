@@ -1700,7 +1700,7 @@ draw_set_valign:
   gms2: y
 draw_skeleton:
   type: f
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 draw_skeleton_collision:
@@ -6500,12 +6500,12 @@ texture_set_blending:
   gms2: y
 texture_set_interpolation:
   type: f
-  gm81: n
+  gm81: y
   gms: y
   gms2: y
 texture_set_interpolation_ext:
   type: f
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 texture_set_repeat:
@@ -11211,18 +11211,18 @@ fps_real:
 gamemaker_pro:
   type: v
   gm81: y
-  gms: y
-  gms2: y
+  gms: n
+  gms2: n
 gamemaker_registered:
   type: v
   gm81: y
-  gms: y
-  gms2: y
+  gms: n
+  gms2: n
 gamemaker_version:
   type: v
   gm81: y
-  gms: y
-  gms2: y
+  gms: n
+  gms2: n
 game_id:
   type: v
   gm81: y
@@ -11560,142 +11560,142 @@ persistent:
   gms2: y
 phy_active:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_angular_damping:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_angular_velocity:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_bullet:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_collision_points:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_collision_x:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_collision_y:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_col_normal_x:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_col_normal_y:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_com_x:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_com_y:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_dynamic:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_fixed_rotation:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_inertia:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_kinematic:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_linear_damping:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_linear_velocity_x:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_linear_velocity_y:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_mass:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_position_x:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_position_xprevious:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_position_y:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_position_yprevious:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_rotation:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_sleeping:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_speed:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_speed_x:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 phy_speed_y:
   type: v
-  gm81: y
+  gm81: n
   gms: y
   gms2: y
 solid:
@@ -13293,7 +13293,7 @@ ev_user9:
   gm81: y
   gms: y
   gms2: y
-false:
+'false':
   type: c
   gm81: y
   gms: y
@@ -14073,7 +14073,7 @@ THAI_CHARSET:
   gm81: y
   gms: y
   gms2: y
-true:
+'true':
   type: c
   gm81: y
   gms: y

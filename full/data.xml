@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <all>
   <ANSI_CHARSET>
     <gm81>y</gm81>
@@ -4921,7 +4920,7 @@
     <type>f</type>
   </draw_set_valign>
   <draw_skeleton>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>f</type>
@@ -7496,20 +7495,20 @@
   </game_set_speed>
   <gamemaker_pro>
     <gm81>y</gm81>
-    <gms>y</gms>
-    <gms2>y</gms2>
+    <gms>n</gms>
+    <gms2>n</gms2>
     <type>v</type>
   </gamemaker_pro>
   <gamemaker_registered>
     <gm81>y</gm81>
-    <gms>y</gms>
-    <gms2>y</gms2>
+    <gms>n</gms>
+    <gms2>n</gms2>
     <type>v</type>
   </gamemaker_registered>
   <gamemaker_version>
     <gm81>y</gm81>
-    <gms>y</gms>
-    <gms2>y</gms2>
+    <gms>n</gms>
+    <gms2>n</gms2>
     <type>v</type>
   </gamemaker_version>
   <gamepad_axis_count>
@@ -12025,67 +12024,67 @@
     <type>v</type>
   </persistent>
   <phy_active>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_active>
   <phy_angular_damping>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_angular_damping>
   <phy_angular_velocity>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_angular_velocity>
   <phy_bullet>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_bullet>
   <phy_col_normal_x>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_col_normal_x>
   <phy_col_normal_y>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_col_normal_y>
   <phy_collision_points>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_collision_points>
   <phy_collision_x>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_collision_x>
   <phy_collision_y>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_collision_y>
   <phy_com_x>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_com_x>
   <phy_com_y>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
@@ -12133,19 +12132,19 @@
     <type>c</type>
   </phy_debug_render_shapes>
   <phy_dynamic>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_dynamic>
   <phy_fixed_rotation>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_fixed_rotation>
   <phy_inertia>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
@@ -12283,85 +12282,85 @@
     <type>c</type>
   </phy_joint_upper_angle_limit>
   <phy_kinematic>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_kinematic>
   <phy_linear_damping>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_linear_damping>
   <phy_linear_velocity_x>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_linear_velocity_x>
   <phy_linear_velocity_y>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_linear_velocity_y>
   <phy_mass>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_mass>
   <phy_position_x>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_position_x>
   <phy_position_xprevious>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_position_xprevious>
   <phy_position_y>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_position_y>
   <phy_position_yprevious>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_position_yprevious>
   <phy_rotation>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_rotation>
   <phy_sleeping>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_sleeping>
   <phy_speed>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_speed>
   <phy_speed_x>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
   </phy_speed_x>
   <phy_speed_y>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>v</type>
@@ -15583,13 +15582,13 @@
     <type>f</type>
   </texture_set_blending>
   <texture_set_interpolation>
-    <gm81>n</gm81>
+    <gm81>y</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>f</type>
   </texture_set_interpolation>
   <texture_set_interpolation_ext>
-    <gm81>y</gm81>
+    <gm81>n</gm81>
     <gms>y</gms>
     <gms2>y</gms2>
     <type>f</type>
